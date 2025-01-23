@@ -1,0 +1,1 @@
+Lorem Ipsum Dolor si Repository for Git exercise
